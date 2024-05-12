@@ -1,5 +1,7 @@
 # YouTube Video Downloader and Slicer - [Yedidya Harris](https://www.linkedin.com/in/yedidya-harris/)
 
+<a href=\"https://colab.research.google.com/github/deedeeharris/YT-Downloader/blob/main/Download_and_Slice_Youtube_Video.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
+
 A Jupyter Notebook for downloading and slicing YouTube videos.
 
 ## Features
